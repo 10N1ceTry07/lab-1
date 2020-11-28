@@ -1,0 +1,167 @@
+@media only screen and (min-width: 789px) and (max-width: 2560px) {
+  .contact_btn {
+    background: #FFFFFF;
+    border: none;
+    outline: none;
+    width: 90px;
+    height: 34px;
+    border: none;
+    border-radius: 4px;
+    border: 1px solid #FFFFFF;
+    flex: none;
+    order: 2;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #606B74;
+  }
+
+  .text_style_social {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+  .header_info {
+    position: relative;
+    padding: 0px;
+    width: 109px;
+    height: -134px;
+    left: 100px;
+    top: -860px;
+  }
+
+  .start_logo_position {
+    align-self: flex-start;
+  }
+  .menu_info {
+    position: relative;
+    right: 115px;
+    top: auto;
+  }
+  .list_width {
+    width: 28%;
+  }
+  .center_list_menu {
+    width: 300px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: space-between;
+  }
+  .list_menu {
+    width: 950px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .text_style_menu {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .social {
+    width: 280px;
+    position: relative;
+    left: 800px;
+    top: -330px;
+    transform: rotate(90deg);
+  }
+  .watch_movie {
+    position: relative;
+    width: 160px;
+    height: 72px;
+    top: -582px;
+    left: 653px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+  .container_text {
+    position: relative;
+    width: 440px;
+    height: 183px;
+    left: 100px;
+    top: -447px;
+  }
+  .watch_movie_text {
+    height: 16px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 10px;
+    color: #FFFFFF;
+    align-self: center;
+  }
+  .ecological {
+    position: relative;
+    left: 0%;
+    right: 0%;
+    top: 16.94%;
+    bottom: 0%;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 38px;
+    color: #FFFFFF;
+  }
+  .sustainable {
+    position: relative;
+    height: 19px;
+    left: 0%;
+    right: 58.18%;
+    top: -10px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 19px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+  }
+  .watch_btn {
+    width: 62px;
+    height: 72px;
+  }
+  .social_list {
+    justify-content: space-between;
+    flex-direction: row;
+    cursor: pointer;
+    height: 14px;
+    display: flex;
+  }
+  .contact_btn_text {
+    cursor: pointer;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #606B74;
+  }
+}
+
+.text_style_menu {
+  font-family: Rubik;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #FFFFFF;
+}

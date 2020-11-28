@@ -1,0 +1,15 @@
+@import "./normalize.min.css";
+@import "./reset.min.css";
+@import "./css/styles.css";
+@import "./css/responsive_320/footer_320.css";
+@import "./css/responsive_320/header_320.css";
+@import "./css/responsive_320/upper_part_320.css";
+@import "./css/responsive_320/middle_part_320.css";
+@import "./css/responsive_320/bottom_part_320.css";
+@import "./css/responsive_320/style_320.css";
+@import "./css/responsive_2560/footer_2560.css";
+@import "./css/responsive_2560/header_2560.css";
+@import "./css/responsive_2560/style_2560.css";
+@import "./css/responsive_2560/upper_part_2560.css";
+@import "./css/responsive_2560/middle_part_2560.css";
+@import "./css/responsive_2560/bottom_part_2560.css";

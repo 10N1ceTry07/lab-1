@@ -1,0 +1,63 @@
+@media only screen and (min-width: 320px) and (max-width: 789px) {
+  .about_middle_part_text {
+    position: relative;
+    width: 100%;
+    height: 169px;
+    left: 3px;
+    top: 10px;
+  }
+  .about_first_text {
+    position: relative;
+    height: 38px;
+    left: 0%;
+    right: 79.45%;
+    top: calc(50% - 38px / 2 - 65.5px);
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 38px;
+    color: #ffffff;
+  }
+  .about_second_text {
+    position: relative;
+    left: 0%;
+    right: 52.68%;
+    top: 23.99%;
+    bottom: 0%;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.5px;
+    line-height: 24px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+  }
+  .about_third_text {
+    left: 10px;
+    position: relative;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.5px;
+    line-height: 24px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+  }
+  .about_second_container_text {
+    position: relative;
+    width: 100%;
+    height: 183px;
+    left: 0%;
+    top: -50px;
+  }
+  .about_third_container_text {
+    position: relative;
+    width: 100%;
+    height: 183px;
+    left: -3%;
+    top: -65px;
+  }
+}
